@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Bungee Tint",
-        body: "SUSE",
+        body: "Albert Sans",
         code: "Inconsolata",
       },
       colors: {
