@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Group F - Design Team",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -24,32 +24,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Bungee Tint",
+        body: "SUSE",
+        code: "Inconsolata",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#FFFFFF", // White background
+          lightgray: "#EEEEEE", // Light gray for borders
+          gray: "#CCCCCC", // Gray for links and heavier borders
+          darkgray: "#282828", // Darker gray for body text
+          dark: "#000000", // Black for header text and icons
+          secondary: "#BA393D", // Muted UGA Red for active elements
+          tertiary: "#BA393D", // Muted UGA Red for hover states
+          highlight: "#FFEEEE",
+          textHighlight: "#fc8d8d", // Muted UGA Red for highlighted text
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#000000", // Dark background
+          lightgray: "#282828", // Darker gray for borders
+          gray: "#555555", // Lighter gray for links and heavier borders
+          darkgray: "#EEEEEE", // Light gray for body text
+          dark: "#EEEEEE", // Off-white for header text and icons
+          secondary: "#BA393D", // Muted UGA Red for active elements
+          tertiary: "#BA393D", // Muted UGA Red for hover states
+          highlight: "#441111",
+          textHighlight: "#7d2525", // Muted UGA Red for highlighted text
         },
       },
     },
