@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import Logo from "./quartz/components/Logo"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -23,11 +24,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
+    Logo({ height: "10rem" }),
+    Component.DesktopOnly(Component.PageTitle()),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Explore Our Project",
+    }),
   ],
   right: [
     Component.Graph(),

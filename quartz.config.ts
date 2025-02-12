@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Group F - Design Team",
+    pageTitle: "Design Team - F",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Bungee Tint",
-        body: "Albert Sans",
+        body: "Geist Mono",
         code: "Inconsolata",
       },
       colors: {
