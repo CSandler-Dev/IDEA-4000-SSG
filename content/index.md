@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Revisioning UGA for 2025
 ---
 
-What does this look like [[Like Example]] **bold** ==highlite==
+This will be used for my preliminary mind map
