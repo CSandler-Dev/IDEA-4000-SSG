@@ -31,9 +31,9 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#FFFFFF", // White background
-          lightgray: "#EEEEEE", // Light gray for borders
-          gray: "#CCCCCC", // Gray for links and heavier borders
-          darkgray: "#282828", // Darker gray for body text
+          lightgray: "#c9b7b7", // Light gray for borders
+          gray: "#282828", // Gray for links and heavier borders
+          darkgray: "#000000", // Darker gray for body text
           dark: "#000000", // Black for header text and icons
           secondary: "#BA393D", // Muted UGA Red for active elements
           tertiary: "#BA393D", // Muted UGA Red for hover states
