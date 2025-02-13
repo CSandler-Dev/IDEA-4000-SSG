@@ -24,14 +24,14 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Bungee Tint",
-        body: "Geist Mono",
+        header: "Rubik",
+        body: "Asap",
         code: "Inconsolata",
       },
       colors: {
         lightMode: {
           light: "#FFFFFF", // White background
-          lightgray: "#c9b7b7", // Light gray for borders
+          lightgray: "#c0c0c0", // Light gray for borders
           gray: "#282828", // Gray for links and heavier borders
           darkgray: "#000000", // Darker gray for body text
           dark: "#000000", // Black for header text and icons
@@ -47,7 +47,7 @@ const config: QuartzConfig = {
           darkgray: "#EEEEEE", // Light gray for body text
           dark: "#EEEEEE", // Off-white for header text and icons
           secondary: "#BA393D", // Muted UGA Red for active elements
-          tertiary: "#BA393D", // Muted UGA Red for hover states
+          tertiary: "#EEEEEE", // Muted UGA Red for hover states
           highlight: "#441111",
           textHighlight: "#7d2525", // Muted UGA Red for highlighted text
         },
