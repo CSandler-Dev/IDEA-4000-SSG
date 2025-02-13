@@ -1,6 +1,6 @@
 ---
-title: Revisioning UGA for 2025
-tags: []
+title: Re-envisioning UGA for 2034
+tags:
 ---
 ###### Learn how this works: [[How to Use This Site 👆]]
 
