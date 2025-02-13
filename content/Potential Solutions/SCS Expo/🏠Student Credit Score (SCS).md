@@ -1,6 +1,6 @@
 > A large issue we identified in current higher education models has been skills preparation, reflection, and evaluation. Our prototype is a holistic evaluation system that is designed to incentivize students, professors, and companies (big & small) to collaborate, collectively improving the uni-to-work pathway.
 
->[!info] Name is Being Workshopped & 
+>[!info] Name is Being Workshopped  
 >We wont be using SCS in the future just an initial name
 ### SCS as a Solution
 - **Main Idea**: 
@@ -9,16 +9,12 @@
 	- To create a comprehensive tool used to evaluate students proficiencies, not just their ability to get questions correct
 		- focus on **holistic** evaluation like emotional intelligence, realized skills, areas of continued growth, etc.
 
-###### **Value Prop**
-- Here
-
-###### **Potential Timeline**
-- Here
-
 ---
 ## Content ⬇️
 
-#### [[Curriculum Structure]] 👆
+#### [[Value Prop]]👆
+- Summary of the benefits of this altered education style
+#### [[Curriculum Structure]] 
 - This is the "meat" of how the SCS will allow for a revolutionary structural change for edu.
 #### [[Financial Plan]] 
 - In order for this to be viable, it must also be financially sound so we have a plan on how to fund it

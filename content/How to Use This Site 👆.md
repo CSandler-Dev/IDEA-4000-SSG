@@ -1,4 +1,4 @@
-This is a Static Site Generated (SSG) of a relational database of markdown files. The main navigational tool i the Graph View in the upper left hand corner. Notes are mapped in correlation with each other rather than hierarchically.
+This is a Static Site Generated (SSG) website interfacing a relational database of markdown files. The main navigational tool is the Graph View in the upper left hand corner. Notes are mapped in correlation with each other rather than hierarchically.
 
 #### Important Features
 - Search

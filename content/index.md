@@ -20,6 +20,6 @@ tags: []
 - Why are they dissatisfied currently?
 ---
 ## Content
-##### [🏠Customer Segmentation](🏠Customers.md)
+##### [🏠Customer Segmentation](🏠Customer%20Segments.md)
 ##### [[🏠EDIP]]
 ##### [[🏠Potential Solutions]]

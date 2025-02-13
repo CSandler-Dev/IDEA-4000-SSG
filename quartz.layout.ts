@@ -31,6 +31,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.Explorer({
       title: "Explore Our Project",
+      folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+      folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
+      useSavedState: true,
     }),
   ],
   right: [
@@ -53,11 +56,11 @@ export const defaultContentPageLayout: PageLayout = {
         zoom: true,
         depth: -1,
         scale: 2,
-        repelForce: 0.4,
-        centerForce: 0.65,
-        linkDistance: 30,
+        repelForce: 0.95,
+        centerForce: 0.35,
+        linkDistance: 40,
         fontSize: 0.7,
-        opacityScale: 1.5,
+        opacityScale: 1.6,
         removeTags: ["#nograph"], // what tags to remove from the graph
         showTags: false, // whether to show tags in the graph
       },

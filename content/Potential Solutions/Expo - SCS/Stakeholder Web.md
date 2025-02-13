@@ -1,4 +1,0 @@
-##### Employers
-##### Professors
-##### Researchers
-##### Students
