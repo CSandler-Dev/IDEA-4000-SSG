@@ -1,4 +1,7 @@
-#financial
+---
+tags:
+  - financial
+---
 ##### [[Employer Buy In]]
 ##### [[Faculty Accelerators]]
 ##### [[Student Support]]

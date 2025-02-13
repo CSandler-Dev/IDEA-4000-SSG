@@ -60,7 +60,7 @@ export const defaultContentPageLayout: PageLayout = {
         centerForce: 0.35,
         linkDistance: 40,
         fontSize: 0.7,
-        opacityScale: 1.6,
+        opacityScale: 1.9,
         removeTags: ["#nograph"], // what tags to remove from the graph
         showTags: false, // whether to show tags in the graph
       },

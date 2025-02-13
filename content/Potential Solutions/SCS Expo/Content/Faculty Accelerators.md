@@ -1,1 +1,4 @@
-#financial
+---
+tags:
+  - financial
+---

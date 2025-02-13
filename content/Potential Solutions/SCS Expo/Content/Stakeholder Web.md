@@ -1,4 +1,7 @@
-#stakeholder
+---
+tags:
+  - stakeholder
+---
 ##### [[Employers]]
 ##### [[Professors]]
 ##### [[Researchers]]

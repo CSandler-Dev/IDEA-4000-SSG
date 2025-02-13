@@ -1,1 +1,4 @@
-#stakeholder
+---
+tags:
+  - stakeholder
+---

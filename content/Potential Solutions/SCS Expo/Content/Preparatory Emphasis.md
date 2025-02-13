@@ -1,1 +1,4 @@
-#curriculum
+---
+tags:
+  - curriculum
+---

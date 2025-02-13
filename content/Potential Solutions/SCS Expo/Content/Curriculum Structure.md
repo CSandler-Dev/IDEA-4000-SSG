@@ -1,4 +1,8 @@
-#curriculum
+---
+tags:
+  - curriculum
+---
+
 #### [[Flexible Pathway]]
 #### [[SCS = Skills Based Eval]]
 #### [[Encouraged Curiosity]]
