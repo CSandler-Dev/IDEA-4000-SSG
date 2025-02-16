@@ -9,7 +9,7 @@
 	- To create a comprehensive tool used to evaluate students proficiencies, not just their ability to get questions correct
 		- focus on **holistic** evaluation like emotional intelligence, realized skills, areas of continued growth, etc.
 ---
-## Structure ⬇️
+# Structure ⬇️
 
 #### [[1. How will the SCS be designed]] 
 - This is the "meat" of how the SCS will allow for a revolutionary structural change for edu.

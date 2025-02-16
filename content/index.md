@@ -9,10 +9,11 @@ tags:
 >
 >**To personalize, what should UGA look like in 2034?**
 
-## Website Structure
-> This website will be a living note garden that will grow as we develop our HCD solution to the prompt above.
-###### Learn how this works: [[How to Use This Site 👆]]
 ---
+# Website Content ⬇️
+###### Learn how this works: [[How to Use This Site 👆]]
+
+> This website will be a living note garden that will grow as we develop our HCD solution to the prompt above.
 ## Discovery (Initial Design Process)
 - [[🏠EDIP]]
 	- Empathize, define, ideate, prototype
