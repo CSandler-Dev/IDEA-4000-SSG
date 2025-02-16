@@ -12,12 +12,8 @@ tags:
 ## Website Structure
 > This website will be a living note garden that will grow as we develop our HCD solution to the prompt above.
 ###### Learn how this works: [[How to Use This Site 👆]]
-- Content is broken down into Discovery and Solution. 
-	- Discovery being our initial exploration process
-	- Solution being our main prototype.
-
 ---
-#### Discovery
+## Discovery (Initial Design Process)
 - [[🏠EDIP]]
 	- Empathize, define, ideate, prototype
 		- This is a summary of our design process broken down into steps
@@ -25,6 +21,6 @@ tags:
 - [[🏠Customer Segments]]
 	- This is a summary of our customer segments after data collection & analysis
 
-#### Solutions
+## Solutions (Main Prototype)
 - [[🏠Student Credit Score (SCS)]]
 	- This is the prototype we landed on after the HCD process
