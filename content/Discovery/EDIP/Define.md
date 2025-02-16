@@ -14,3 +14,5 @@
 
 ###### **Defining the CORE Problem:** 
 >There is a lack of collaboration between students, UGA, and industries. This results in a curriculum that emphasizes theoretical knowledge and infrequent mistakes over practical, industry-relevant skills and developed problem-solving, which in turn contributes to students not gaining enough skills compared to the cost of their education.
+
+##### Who is our client? What is their problem? What are we fixing?

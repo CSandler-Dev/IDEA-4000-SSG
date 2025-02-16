@@ -56,13 +56,14 @@ export const defaultContentPageLayout: PageLayout = {
         zoom: true,
         depth: -1,
         scale: 2,
-        repelForce: 0.95,
+        repelForce: 0.9,
         centerForce: 0.35,
-        linkDistance: 40,
+        linkDistance: 35,
         fontSize: 0.7,
-        opacityScale: 1.9,
+        opacityScale: 1.7,
         removeTags: ["#nograph"], // what tags to remove from the graph
         showTags: false, // whether to show tags in the graph
+        enableRadial: false, // whether to enable radial layout
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
